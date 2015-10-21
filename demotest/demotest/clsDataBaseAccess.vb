@@ -5,6 +5,7 @@ Imports System.Configuration
 Imports Sql.Data.SqlClient
 'the line below need add new
 Imports System.Data.SqlClient
+
 Public Class DataBaseAccess
     ' Represents an open connection to a SQL database
     Protected SqlCon As SqlConnection
