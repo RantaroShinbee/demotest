@@ -1,0 +1,8 @@
+'git config --global user.name "RantaroShinbee"
+'git config --global user.email "junshinbee@gmail.com"
+'git clone https://github.com/RantaroShinbee/demotest.git
+'git init
+'git add .
+'git commit -m "Commited By Kid"
+'git remote add origin https://github.com/RantaroShinbee/demotest.git
+'git push -u origin master
